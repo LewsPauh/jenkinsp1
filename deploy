@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
 echo "Deploying to $1"
+echo "Testing CICD"
