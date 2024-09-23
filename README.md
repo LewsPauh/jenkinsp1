@@ -1,3 +1,3 @@
-# jenkinsp1
+# Jenkins CI/CD test files
 
-This file is an example of ReadMe file for a CICD Jenkins pipeline test
+Files can be used to test correct Jenkins CI/CD pipeline configuration. 
